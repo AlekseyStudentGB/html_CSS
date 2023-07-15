@@ -4,6 +4,16 @@
     color: cornflowerblue;
     font-size: 16px;
     line-height: 20px;
+    border: 1px solid #d6e279;
+    outline:2px solid #141414;
+    border-width: 10px;
+    border-radius: 10px;
+    background-color: #d6e279 ;
+
+}
+.menu:hover{
+    border-color: rgb(122, 134, 134);   
+    background-color: rgb(122, 134, 134);
 }
 .zag{
     color: #222222;
