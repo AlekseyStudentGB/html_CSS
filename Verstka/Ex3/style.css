@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.header{
+    border: 0px solid;
+    padding-top: px;
+    padding-bottom: px;
+    padding-left: 0.5;
+    padding-right: ;    
+    
+}
+.log{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu{
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+.menuHome{
+    color: #F25822;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    
+
+}
+.menuGet{
+    border: 1px solid #F25822;;
+    border-radius: 30px;
+    background: #F25822;
+    color: #FFF;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding-left:27px;
+    padding-top:12px;
+    padding-right:27px;
+    padding-bottom:13px;
+    margin-left: 5px;
+    margin-top:5px ;
+} 
+.topic{
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+}
+.text{
+    color: #888;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.link__cont1{
+    
+    text-decoration: none;
+    border-radius: 50px;
+    background: #F25822;
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.link__cont2{
+    text-decoration: none;
+    color: #AAA;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.podval{
+    border: 0px solid;
+    padding-top: 97px;
+    padding-bottom: 96px;
+    padding-left: 345px;
+    padding-right: 375px;
+}
